@@ -1,0 +1,12 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer Localizer
+@model IEnumerable<Proyecto>
+
+@if (Model is not null)
+{
+    <div class="text-center" style="padding-top: 2rem;">
+        <h2>@Localizer["TitleWorks"]</h2>
+        <p style="color: var(--bs-primary)">@Localizer["DescWorks"]</p>
+    </div>
+
+    <partial name="_ListadoProyectos" model="Model" />
+}

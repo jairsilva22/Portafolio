@@ -1,0 +1,45 @@
+﻿
+@{
+	ViewData["Title"] = "Contacto";
+}
+
+
+<section class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card bg-dark text-white shadow-lg rounded-4 p-4">
+                <h3 class="text-center mb-4">📬 Contáctame</h3>
+                <form asp-controller="Home" asp-action="Contacto">
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control rounded-3" id="nombre" name="nombre" placeholder="Fulano de tal" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Correo electrónico</label>
+                        <input type="email" class="form-control rounded-3" id="email" name="email" placeholder="nombre@ejemplo.com" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="mensaje" class="form-label">Mensaje</label>
+                        <textarea class="form-control rounded-3" id="mensaje" name="mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
+                    </div>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary rounded-pill">Enviar Mensaje</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section scripts{
+
+	<script>
+
+		
+		
+	</script>
+}

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|c:\\users\\vog20\\onedrive\\escritorio\\net curso\\portafolio\\portafolio\\views\\home\\_certificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58BD420F-2891-40B0-8598-0A5302232C07}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_certificados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ListadoProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T02:14:52.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T02:14:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Portafolio\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAANsAAAAAAAAAAAAtwPIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T02:05:27.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:50:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:46:30.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:46:20.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:46:17.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:41:12.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:39:35.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Certificados.cshtml",
+              "DocumentMoniker": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Certificados.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Certificados.cshtml",
+              "ToolTip": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\Views\\Home\\_Certificados.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Certificados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T01:03:44.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

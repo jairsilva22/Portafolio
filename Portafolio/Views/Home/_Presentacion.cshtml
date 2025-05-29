@@ -1,0 +1,66 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+<div class="profile-section">
+    <div class="container-fluid">
+        <div class="profile-content">
+            <div class="row align-items-center">
+                <!-- Columna de Perfil -->
+                <div class="row">
+                    <div class="profile-column">
+                        <!-- Foto de Perfil -->
+                        <div class="fade-in-up">
+                            <img class="profile-photo" src="~/imagenes/foto.jfif" alt="Foto perfil Jair Silva">
+                        </div>
+                        <!-- Botones debajo de la foto -->
+                        <div class="d-flex justify-content-center gap-3 mt-3">
+                            <!-- Botón LinkedIn -->
+
+                           
+                            <a class="btn btn-primary d-flex align-items-center gap-2 px-3"
+                               href="https://www.linkedin.com/in/tu-perfil"
+                               target="_blank"
+                               role="button">
+                                <i class="bi bi-linkedin"></i>
+                                LinkedIn
+                            </a>
+
+                            <!-- Botón Descargar CV -->
+                            <a class="btn btn-success d-flex align-items-center gap-2 px-3"
+                               href="@Url.Content("~/archivos/CV-Jair-Silva.pdf")"
+                               download
+                               role="button">
+                                <i class="bi bi-download"></i>
+                                Descargar CV
+                            </a>
+                        </div>
+
+
+
+
+                        <!-- Nombre y Título -->
+                        <div class="fade-in-up-delay">
+                            <h1 class="profile-name">@Localizer["Hello"], <span class="highlight">Jair Silva</span></h1>
+                            <h2 class="profile-title">@Localizer["Title"]</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Columna de Bienvenida -->
+                <div class="row mb-2 ">
+                    <div class="welcome-column">
+                        <!-- Card de Bienvenida -->
+                        <div class="fade-in-up-delay">
+                            <div class="welcome-card">
+                                <h3 class="welcome-title">@Localizer["Welcome"]</h3>
+                                <p class="welcome-text">
+									@Localizer["Resumen"]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

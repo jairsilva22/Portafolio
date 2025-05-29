@@ -1,0 +1,57 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer Localizer
+@{
+    ViewData["Title"] = "Confidential";
+}
+
+<style>
+
+
+
+
+    .card {
+        background: #1e1e1e;
+        padding: 2rem 3rem;
+        border-radius: 1rem;
+        box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);
+        max-width: 480px;
+        width: 100%;
+    }
+
+    h1 {
+        color: #0d6efd; /* Bootstrap primary blue */
+        margin-bottom: 1rem;
+        font-weight: 700;
+    }
+
+    p {
+        font-size: 1.2rem;
+        line-height: 1.6;
+        color: #bbb;
+    }
+
+    a.btn-primary {
+        margin-top: 2rem;
+        padding: 0.75rem 2rem;
+        font-size: 1rem;
+        border-radius: 0.5rem;
+        text-decoration: none;
+        color: #fff;
+        background-color: #0d6efd;
+        display: inline-block;
+        transition: background-color 0.3s ease;
+    }
+
+        a.btn-primary:hover {
+            background-color: #084298;
+        }
+</style>
+
+<div class="d-flex justify-content-center">
+    <div class="card">
+        <h1>Proyecto Confidencial</h1>
+        <p>
+            Por razones de confidencialidad, este proyecto no puede ser mostrado públicamente ni compartido en detalle.
+        </p>
+        <a href="/" class="btn-primary">Volver al inicio</a>
+    </div>
+</div>
