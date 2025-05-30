@@ -47,3 +47,4 @@ C:\Users\vog20\OneDrive\Escritorio\NET curso\Portafolio\Portafolio\obj\Debug\net
 C:\Users\vog20\OneDrive\Escritorio\NET curso\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.Recursos.Servicios.RepositorioProyectos.es.resources
 C:\Users\vog20\OneDrive\Escritorio\NET curso\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.Recursos.Views.Home._Certificados.en.resources
 C:\Users\vog20\OneDrive\Escritorio\NET curso\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.Recursos.Views.Home._Certificados.es.resources
+C:\Users\vog20\OneDrive\Escritorio\NET curso\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.sourcelink.json

@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Portafolio.ew135cid30.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_en.pdf",
+      "PackagePath": "staticwebassets\\Archivos\\Cv_Jair_Silva_en.pdf"
+    },
+    {
+      "Id": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_es.pdf",
+      "PackagePath": "staticwebassets\\Archivos\\Cv_Jair_Silva_es.pdf"
+    },
+    {
       "Id": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\Flags\\mx.svg",
       "PackagePath": "staticwebassets\\Imagenes\\Flags\\mx.svg"
     },

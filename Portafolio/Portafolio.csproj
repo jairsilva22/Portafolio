@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Imagenes\Flags\" />
+    <Folder Include="wwwroot\Archivos\" />
   </ItemGroup>
 
   <ItemGroup>

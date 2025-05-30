@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qlsDonaJGzu9G9vBYkP93y2fAZHIWSRcUwp3EU1KLsg=",
+  "Hash": "xhf5EozgCF6+YBtl5weoqiOahsqkfQsjFHJlkSiff7w=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -57,6 +57,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_en.pdf",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Archivos/Cv_Jair_Silva_en#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nf31yvdh1",
+      "Integrity": "8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivos\\Cv_Jair_Silva_en.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_es.pdf",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Archivos/Cv_Jair_Silva_es#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hq213u9cn",
+      "Integrity": "e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivos\\Cv_Jair_Silva_es.pdf"
     },
     {
       "Identity": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
@@ -1593,6 +1635,170 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "Archivos/Cv_Jair_Silva_en.5nf31yvdh1.pdf",
+      "AssetFile": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_en.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3978938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nf31yvdh1"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Cv_Jair_Silva_en.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_en.pdf",
+      "AssetFile": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_en.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3978938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_es.1hq213u9cn.pdf",
+      "AssetFile": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_es.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4008187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hq213u9cn"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Cv_Jair_Silva_es.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_es.pdf",
+      "AssetFile": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\Archivos\\Cv_Jair_Silva_es.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4008187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c="
+        }
+      ]
+    },
     {
       "Route": "css/custom.css",
       "AssetFile": "C:\\Users\\vog20\\OneDrive\\Escritorio\\NET curso\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
@@ -7602,7 +7808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7639,7 +7845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7684,7 +7890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7729,7 +7935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         },
         {
           "Name": "Cache-Control",

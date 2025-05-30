@@ -3,6 +3,170 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Archivos/Cv_Jair_Silva_en.5nf31yvdh1.pdf",
+      "AssetFile": "Archivos/Cv_Jair_Silva_en.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3978938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:31:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nf31yvdh1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA="
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Cv_Jair_Silva_en.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_en.pdf",
+      "AssetFile": "Archivos/Cv_Jair_Silva_en.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3978938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:31:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QpnAMEpA/dP1ZK1CHIfEhDRsT41l59A4AmU3OIgVpA="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_es.1hq213u9cn.pdf",
+      "AssetFile": "Archivos/Cv_Jair_Silva_es.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4008187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hq213u9cn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c="
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Cv_Jair_Silva_es.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Cv_Jair_Silva_es.pdf",
+      "AssetFile": "Archivos/Cv_Jair_Silva_es.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4008187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 00:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2AImWNofpjh1F6bhNSjfX0KcOfGxMDq4gm0YIp1i5c="
+        }
+      ]
+    },
+    {
       "Route": "Imagenes/Flags/mx.btjqbvffmv.svg",
       "AssetFile": "Imagenes/Flags/mx.svg",
       "Selectors": [],
@@ -1013,7 +1177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1058,7 +1222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 04:26:06 GMT"
+          "Value": "Fri, 30 May 2025 00:36:26 GMT"
         }
       ],
       "EndpointProperties": [
