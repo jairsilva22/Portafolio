@@ -32,7 +32,7 @@ namespace Portafolio.Servicios
                     Descripcion =localizer["DescripcionHelpDesk"],
                     Herramientas ="ASP.NET Core 9,Entity Framework Core,SignalR,SQL Server,Bootstrap,JavaScript,HTML5,CSS3,Identity",
                     Link = "https://github.com/jairsilva22/HelpDesk",
-                    ImagenURL="/Imagenes/nyt.png"
+                    ImagenURL="/Imagenes/nyt.PNG"
                 }, 
 
                    new Proyecto {
@@ -47,7 +47,7 @@ namespace Portafolio.Servicios
                     Descripcion =localizer["DescripcionBom"],
                     Herramientas ="ASP.NET 6,Dapper,SQL Server,Bootstrap,JavaScript,HTML5,CSS3",
                     Link = "/Home/Bom",
-                    ImagenURL="/Imagenes/nyt.png"
+                    ImagenURL="/Imagenes/nyt.PNG"
                 },
 
                    new Proyecto {
