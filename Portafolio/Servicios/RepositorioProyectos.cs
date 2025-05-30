@@ -25,21 +25,21 @@ namespace Portafolio.Servicios
                     Descripcion = localizer["DescripcionGym"],
                     Herramientas ="C#, ASP.NET Core,Dapper, SQL Server, Bootstrap, JavaScript",
                     Link = "https://github.com/jairsilva22/GYM?tab=readme-ov-file",
-                    ImagenURL="/imagenes/GYM.png"
+                    ImagenURL="/Imagenes/GYM.png"
                 },
                 new Proyecto {
                     Titulo = "Help Desk",
                     Descripcion =localizer["DescripcionHelpDesk"],
                     Herramientas ="ASP.NET Core 9,Entity Framework Core,SignalR,SQL Server,Bootstrap,JavaScript,HTML5,CSS3,Identity",
                     Link = "https://github.com/jairsilva22/HelpDesk",
-                    ImagenURL="/imagenes/nyt.png"
+                    ImagenURL="/Imagenes/nyt.png"
                 }, 
 
                    new Proyecto {
                     Descripcion = localizer["DescripcionSNTSS"],
                     Herramientas ="HTML,CSS,Tailwind,JS",
                     Link = "https://incomparable-kringle-ab1f9f.netlify.app/",
-                    ImagenURL="/imagenes/IMSS.png"
+                    ImagenURL="/Imagenes/IMSS.png"
                 },
 
                     new Proyecto {
@@ -47,14 +47,14 @@ namespace Portafolio.Servicios
                     Descripcion =localizer["DescripcionBom"],
                     Herramientas ="ASP.NET 6,Dapper,SQL Server,Bootstrap,JavaScript,HTML5,CSS3",
                     Link = "/Home/Bom",
-                    ImagenURL="/imagenes/nyt.png"
+                    ImagenURL="/Imagenes/nyt.png"
                 },
 
                    new Proyecto {
                     Descripcion = "BataBit",
                     Herramientas ="HTML,CSS",
                     Link = "https://bata-bit.vercel.app/",
-                    ImagenURL="/imagenes/batabit.png"
+                    ImagenURL="/Imagenes/batabit.png"
                 },
 
 
