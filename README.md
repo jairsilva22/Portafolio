@@ -5,17 +5,17 @@ This is my professional portfolio built using modern web technologies like .NET,
 
 Aquí presento mis habilidades, experiencia y proyectos más destacados como desarrollador de software.
 Here I showcase my skills, experience, and top projects as a software developer.
----
+
 🛠 Tecnologías utilizadas / Technologies Used
 ASP.NET (.NET 9)
-
+---
 HTML5 / CSS3
 
 Bootstrap 5
 
 JavaScript
 
-Razor Pages (si usaste / if used)
+Razor Pages 
 
 Git y GitHub / Git and GitHub
 ---
